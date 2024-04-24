@@ -1,3 +1,1 @@
-# IngSw
-Juan Sebastian 
-El PEPE
+pepe
